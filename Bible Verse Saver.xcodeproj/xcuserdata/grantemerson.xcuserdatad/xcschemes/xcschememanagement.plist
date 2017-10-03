@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AppleWatch (Notification).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>AppleWatch.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Bible Verse Saver.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Verse Saver (Notification).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Verse Saver.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>VerseSaverSiriIntent.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>VerseSaverSiriIntentUI.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>552E25621E6B555800A8923F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>555459321E84312200B386D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5554593B1E84312200B386D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55AA3E751E5A91EE00B134C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55AA3E8B1E5A91EF00B134C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55AA3E961E5A91EF00B134C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55CA32761E5B629D00F53E98</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
