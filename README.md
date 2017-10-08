@@ -25,7 +25,10 @@ Download Verse Saver today and get access to all of your favorite verses in one 
 
 ### Screenshots of the App
 
-![Screenshots of iOS App Coming Soon...]()
+![Screenshots of iOS App](http://is5.mzstatic.com/image/thumb/Purple128/v4/9d/93/5f/9d935f8b-0ddb-854e-add5-0787b3750a2c/source/392x696bb.jpg)
+![Screenshots of iOS App](http://is5.mzstatic.com/image/thumb/Purple128/v4/6b/a4/66/6ba4666f-d987-b8fc-4a9d-3c76138243f5/source/392x696bb.jpg)
+![Screenshots of iOS App](http://is3.mzstatic.com/image/thumb/Purple118/v4/45/a0/25/45a025d2-eccb-78fb-f9a7-dc3229d39eb6/source/392x696bb.jpg)
+![Screenshots of iOS App](http://is5.mzstatic.com/image/thumb/Purple118/v4/cf/a5/21/cfa521ff-3636-bcc3-44d2-18e5c0565b53/source/392x696bb.jpg)
 
 ### Got Bugs?
 
